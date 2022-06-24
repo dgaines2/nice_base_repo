@@ -19,6 +19,7 @@ exclude = '''
   | blib2to3
   | tests/data
 )/
+'''
 
 [tool.isort]
 profile='black'
